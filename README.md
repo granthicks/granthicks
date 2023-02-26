@@ -8,6 +8,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=granthicks&count_private=true&show_icons=true&theme=gruvbox&hide_rank=false" />
 </a>
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=granthicks&layout=compact&exclude_repo=100-pandas-puzzles,PythonDataScienceHandbook,homemade-machine-learning,movie_data_scrape,portfolio&langs_count=6&hide=jupyter%20notebook,purebasic" />
 </a>
